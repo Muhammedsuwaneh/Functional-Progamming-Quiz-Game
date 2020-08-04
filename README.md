@@ -29,5 +29,5 @@ Remember: use the function srand() in your main to seed the generator and rand()
 after that. Notes: (1) rand() returns a long int; and (2) pass time(NULL) as an argument to srand() and
 #include<ctime> to be able to use the system's time clock to seed the generator.
   
- #Solution to this program can be found in the source file
+ #Solution to this problem can be found in the source file
 
