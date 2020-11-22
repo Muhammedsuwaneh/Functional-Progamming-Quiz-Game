@@ -1,5 +1,10 @@
-/* Question 5 */
-/* Functional Programming */
+/*
+*
+*@author - Muhammed Suwaneh
+*@ESOGU Department of Computer Engineering
+*
+*
+*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
